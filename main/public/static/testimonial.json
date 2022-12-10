@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rohan Bavishi",
+    "img": "img/testimonials/4.jpg",
+    "profession": "Adept AI Labs",
+    "details": "I completed my Ph.D. at the University of California, Berkeley, where I was advised by Koushik Sen. I was also a member of the Programming Systems group. My research focused on designing tools and techniques for improving the productivity of programmers, specifically data scientists. Where professor Koushik Sen adivesd me a lot of things which were very effective in my later life. "
+  },
+  {
+    "name": "Rohan Padhye",
+    "img": "img/testimonials/3.jpg",
+    "profession": "Assistant Professor",
+    "details": "I completed my Ph.D. in Computer Science at UC Berkeley, where I was advised by Koushik Sen. My dissertation investigated techniques for specializing program analysis and automated testing tools using artifacts that incorporate the knowledge of domain experts.He advise me a lot of outcomes and pushed me when i was struggling .I got my inspiration of being  professor from him."
+  },
+  {
+    "name": "Liang Gong",
+    "img": "img/testimonials/6.jpg",
+    "profession": "research scientist",
+    "details": "Before joining Facebook, I obtained my Computer Science Ph.D. degree from UC Berkeley in 2018. My research adviser at Berkeley was Prof. Koushik Sen. As he is very experinced he advised me a lot of things about my research,how to start and from where to collect resources."
+  }
+]
